@@ -308,4 +308,5 @@ const Auth: React.FC = () => {
     </Grid>
   );
 };
+
 export default Auth;
